@@ -3,5 +3,5 @@ testing a new ui/design for my website.
 <br>made using figma and a plugin that makes it an html.
 
 uses netlify<br>
-https://boogiehasfun-tesing.netlify.com<br>
+https://boogiehasfun-tesing.netlify.app<br>
 most likely won't be used 
