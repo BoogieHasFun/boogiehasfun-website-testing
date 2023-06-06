@@ -42,7 +42,11 @@ footer {
   padding: 10px;
   text-align: center;
   color: white;
-  
+  position:fixed;
+  left:0px;
+  bottom:0px;
+  height:30px;
+  width:100%;
 }
 blackbackground
 { 
@@ -74,12 +78,4 @@ vi a:visited {
   color: rgb(111, 58, 255);
   background-color: transparent;
   text-decoration: none;
-}
-#footer {
-   position:fixed;
-   left:0px;
-   bottom:0px;
-   height:30px;
-   width:100%;
-   background:#999;
 }
