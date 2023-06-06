@@ -2,12 +2,12 @@
 	overflow:hidden;
 }.e104_5 { 
 	width:1920px;
-	height:1080px;
+	height:989px;
 	position:absolute;
 }.e2_25 { 
 	background-color:rgba(40.00000141561031, 42.000001296401024, 53.00000064074993, 1);
 	width:1920px;
-	height:1080px;
+	height:989px;
 	position:absolute;
 	left:0px;
 	top:0px;
@@ -39,27 +39,16 @@
 	height:139px;
 	position:absolute;
 	left:0px;
-	top:941px;
+	top:850px;
 }.e103_2 { 
 	color:rgba(255, 255, 255, 1);
 	width:204px;
 	height:22px;
 	position:absolute;
 	left:858px;
-	top:989px;
+	top:909px;
 	font-family:Inter;
 	text-align:left;
-	font-size:20px;
-	letter-spacing:0;
-}.e104_3 { 
-	color:rgba(255, 255, 255, 1);
-	width:204px;
-	height:22px;
-	position:absolute;
-	left:851px;
-	top:1011px;
-	font-family:Inter;
-	text-align:center;
 	font-size:20px;
 	letter-spacing:0;
 }
