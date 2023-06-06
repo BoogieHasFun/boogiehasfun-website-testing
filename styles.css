@@ -38,14 +38,15 @@ a {
 
 footer {
 
+  
   background-color: #17182e;
   padding: 10px;
   text-align: center;
   color: white;
   position:fixed;
   left:0px;
-  bottom:0px;
-  height:30px;
+  bottom:-2px;
+ 
   width:100%;
 }
 blackbackground
